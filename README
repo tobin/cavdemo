@@ -1,0 +1,9 @@
+This is a small demo written in Matlab to show how the reflectivity
+coefficient (amplitude and phase) and intra-cavity power buildup
+of a two-mirror lossless Fabry-Perot cavity depend on the choice of
+the two mirror reflectivities.
+
+![Screenshot](cavdemo-screenshot.png)
+
+Tobin Fricke <tobin.fricke@ligo.org>
+2010-08-30
